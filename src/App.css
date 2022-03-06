@@ -1,5 +1,29 @@
 .App {
   text-align: center;
+  color: white;
+
+}
+body{
+  background-color: black;
+}
+.main{
+  align-items: center;
+  border: 1px solid grey;
+  height: 300px;
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 10px;
+  background-image: url(https://images.unsplash.com/photo-1546497974-b213c9efb599?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80);
+}
+button{
+  width: 100px;
+  padding: 10px;
+  margin-top: 15px;
+  background-color: #282c34;
+  color: whitesmoke;
+  cursor: pointer;
+
 }
 
 .App-logo {
